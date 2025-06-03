@@ -1,6 +1,4 @@
-name = "TF121 Telemetry Test";
-author = "TF121 Dev";
-tooltip = "Telemetry Mod for MATRIC Proof of Concept";
-actionName = "GitHub";
-action = "https://github.com/FatLurch/ARMACOM";
-dependencies[] = { "CBA_MAIN", "ARMACOM" };
+name = "MatricApp Middleware";
+author = "Darth Raptor";
+version = "0.1.0";
+description = "Middleware to send real-time telemetry from Arma 3 aircraft to the MATRIC bridge app.";
