@@ -19,12 +19,6 @@ class CfgFunctions
             class sendCommonTelemetry
             {
             };
-            class sendHeliTelemetry
-            {
-            };
-            class sendApacheTelemetry
-            {
-            };
         };
     };
 };
